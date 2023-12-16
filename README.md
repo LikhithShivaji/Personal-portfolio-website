@@ -12,9 +12,7 @@
 
 <br />
 
-### Demo Screeshots
 
-![Portfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
